@@ -1,0 +1,24 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+  border-width: 10px;
+  background-color: white;
+  border-style: ridge;
+  border-color: darkviolet; 
+}
+
+#bday {
+  color:darkred;
+  border-color: crimson;
+  margin-top: 20px;
+  font-size: xx-large;
+}
+
+#button {
+  background-color: forestgreen;
+}
